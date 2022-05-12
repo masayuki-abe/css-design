@@ -6,7 +6,7 @@ export default {
   head: {
     title: 'css-design',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'jp'
     },
     meta: [
       { charset: 'utf-8' },
