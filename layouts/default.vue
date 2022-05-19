@@ -1,10 +1,10 @@
 <template>
 <div>
-  <organismsHtmlHeader/>
+  <organismsTheHeader/>
   <div class="l-wrap">
     <Nuxt />
   </div><!--/wrap-->
-  <organismsHtmlFooter/>
+  <organismsTheFooter/>
 </div>
 </template>
 
